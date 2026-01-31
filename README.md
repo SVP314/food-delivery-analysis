@@ -20,7 +20,4 @@ Analysis of food delivery data to understand customer behavior, restaurant perfo
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## Key Findings
-- Best quarter: Q3
-- Top city: Bangalore  
-- Popular cuisine: Mexican
+
